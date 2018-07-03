@@ -1,0 +1,2 @@
+//Error: specified key was too long
+Schema::defaultStringLength(191);
